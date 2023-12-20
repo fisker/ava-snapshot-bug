@@ -1,0 +1,1 @@
+export default {snapshotDir: `${process.platform}-snapshots`}
